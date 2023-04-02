@@ -127,5 +127,107 @@
       "rate": 3.4,
       "description": "Cung cấp số lượng lớn hoa quả nhập khẩu từ Úc, Mỹ tươi ngon giá rẻ tại Hà Nội. Cửa hàng hoa quả nhập khẩu 54 Lạc Long Quân Hà Nội cung cấp hoa quả nhập khẩu Úc Mỹ Nhật. Hoa quả tươi như Táo, Nho của Mỹ, Úc… đều được bảo quản trong môi trường lạnh đặc biệt từ khi hái, không chất bảo quản và các chất gây hại cho sức khỏe."
     }
+  ],
+  "foods": [
+    {
+      "id": 1,
+      "title": "Đậu phụ làm theo kiểu này ngon hơn cả thịt, 10 phút là nấu xong",
+      "image": "https://icdn.24h.com.vn/upload/1-2023/images/2023-02-13/dau-phu-lam-theo-kieu-nay-ngon-hon-ca-thit-10-phut-la-nau-xong-8-1676270662-746-width740height493.jpeg",
+      "video": "",
+      "ingredient": "1 miếng đậu phụ, 1 quả trứng, 4 tép tỏi, 1 nhánh hành lá, 50 gam bột thì là, 50 gam mè trắng, 30 gam ớt bột, 2 thìa xì dầu, 1 thìa dầu hào, nửa thìa đường, nửa thìa muối, bột mỳ.",
+      "doing": "",
+      "category": 3,
+      "description": "Có nhiều cách chế biến đậu phụ nhưng làm theo kiểu này vừa lạ miệng, vừa rất hợp ăn với cơm nóng."
+    },
+    {
+      "id": 2,
+      "title": "Chỉ cần chuối và 3 quả trứng, không ngờ lại thành món ngon như vậy",
+      "image": "https://icdn.24h.com.vn/upload/1-2023/images/2023-02-17/Chi-can-chuoi-va-3-qua-trung-khong-ngo-lai-thanh-mon-ngon-nhu-vay-1-1676606488-800-width554height384.jpeg",
+      "video": "",
+      "ingredient": "Chuối, vụn bánh mì, trứng.",
+      "doing": "",
+      "category": "1",
+      "description": "Cách làm món ăn này rất đơn giản, chỉ cần chuẩn bị vài quả chuối và thêm 3 quả trứng vào là xong."
+    },
+    {
+      "id": 3,
+      "title": "Cách làm cua đồng rang me chua ngọt đậm đà",
+      "image": "https://icdn.24h.com.vn/upload/1-2023/images/2023-03-28/Cach-lam-cua-dong-rang-me-chua-ngot-dam-da-1-1679986101-542-width967height595.jpg",
+      "video": "",
+      "ingredient": "1kg cua đồng, 100gr me chín, 2 muỗng canh tỏi băm, 2 thìa cà phê bột năng, Gia vị: Bột canh, hạt tiêu, đường, muối, bột ngọt",
+      "doing": "",
+      "category": "1",
+      "description": "Món cua đồng rang me đặc trưng bởi vị chua chua ngọt ngọt từ nước sốt me quyện với vị ngậy, giòn thơm của cua đồng. Món này dùng để ăn nhậu hay ăn với cơm đều ngon."
+    },
+    {
+      "id": 4,
+      "title": "Chỉ với nồi chiên không dầu, có ngay món đậu phụ chiên ngon thần thánh",
+      "image": "https://icdn.24h.com.vn/upload/4-2022/images/2022-10-24/20211125054230284-1666576426-34-width2000height1500.jpg",
+      "video": "",
+      "ingredient": "Đậu phụ, 2 thìa xì dầu, 1 thìa dầu hào, 1 thìa đường, 2 thìa bột thì là, 1 thìa vừng rang, 1 thìa ớt bột, 2 củ hành tím, Dầu ăn",
+      "doing": "",
+      "category": "3",
+      "description": "Đậu phụ không chỉ bổ dưỡng mà còn dễ tiêu hóa, đặc biệt phù hợp với người già và trẻ em có hệ tiêu hóa kém."
+    },
+    {
+      "id": 5,
+      "title": "Cách làm snack hành tây ngon đúng điệu chỉ với nồi chiên không dầu",
+      "image": "https://icdn.24h.com.vn/upload/4-2022/images/2022-10-25/3-1666674717-574-width729height707.jpg",
+      "video": "",
+      "ingredient": "- Hành tây thái thành những khoanh tròn\n\n- ½ chén bột mì\n\n- 2 quả trứng lớn\n\n- 1 cốc vụn bánh mì\n\n- 1 thìa ớt bột\n\n- ½ thìa cà phê bột tỏi\n\n- ½ thìa cà phê muối\n\n- Ớt\n\n- 1 củ hành tây vừa\n\n- Sốt BBQ",
+      "doing": "",
+      "category": "2",
+      "description": "Chỉ mất vài phút chiên với nồi chiên không dầu là bạn đã có món snack hành tây ngon tuyệt hảo."
+    },
+    {
+      "id": 6,
+      "title": "Mách bạn cách làm bò hầm đậm vị, ngon quên lối về",
+      "image": "https://icdn.24h.com.vn/upload/3-2022/images/2022-08-29/Mach-ban-cach-lam-bo-ham-vua-dam-vi-lai-ngon-quen-loi-ve-img-1661762808-942-width640height480.jpg",
+      "video": "",
+      "ingredient": "- 1kg ức bò\n\n- 500g gân bò\n\n- 3 củ cà rốt (gọt vỏ và cắt thành từng khoanh lớn)\n\n- 2 muỗng cà phê tương đậu lên men\n\n- 1 miếng gừng dài 5 cm (cắt thành từng lát dày)\n\n- 1 củ tỏi (cắt bỏ phần trên để lộ tép)\n\n- 2 muỗng cà phê nước tương nhạt\n\n- 1 muỗng cà phê nước tương đen\n\n- 20 g đường phèn\n\n- 2 muỗng canh dầu thực vật\n\n- Nước 500 ml\n\n- Muối",
+      "doing": "",
+      "category": "1",
+      "description": "Chỉ với vài bước dễ dàng là món ăn kiểu Hồng Kông này có thể hoàn thành và chinh phục cả người ăn khó tính nhất."
+    },
+    {
+      "id": 7,
+      "title": "Phần thịt bò siêu ngon đại bổ của con bò hầm với cà chua, ai ăn cũng mê",
+      "image": "https://icdn.24h.com.vn/upload/4-2022/images/2022-10-17/uc-bo-ham-ca-chua-mem-ngot-ai-an-cung-deu-me-1601831345-903-thumbnail-width640height480_schema_-1665999113-346-width1200height675.jpg",
+      "video": "",
+      "ingredient": "- Ức bò\n\n- Cà chua\n\n- Dầu ăn\n\n- Gừng\n\n- Tỏi\n\n- Hoa hồi\n\n- Lá nguyệt quế\n\n- Nước sốt cà chua\n\n- Muối\n\n- Tiêu\n\n- Đường\n\n- Hành",
+      "doing": "",
+      "category": "1",
+      "description": "Đây là món ăn có công thức thực hiện đơn giản nhưng hương vị lại vô cùng thơm ngon khiến ai cũng yêu thích."
+    },
+    {
+      "id": 8,
+      "title": "Làm cơm chiên dứa kiểu Thái cực chuẩn ngay tại nhà",
+      "image": "https://icdn.24h.com.vn/upload/3-2022/images/2022-09-28/untitled-1664340553-93-width794height646.jpg",
+      "video": "",
+      "ingredient": "- 2 muỗng canh dầu thực vật\n\n- 2 tép tỏi băm nhuyễn\n\n- ½  củ hành tây thái nhỏ\n\n- ½ ớt chuông thái hạt lựu\n\n- ½ chén đậu Hà Lan đông lạnh\n\n- Cơm\n\n- Dứa tươi xắt miếng\n\n- ½ chén hành lá\n\nNước sốt:\n\n- 1 muỗng canh dầu hào\n\n- Nước mắm\n\n- ½ muỗng cà phê đường",
+      "doing": "",
+      "category": "3",
+      "description": "Đây là công thức làm cơm chiên dứa chuẩn Thái bạn nhất định phải thử."
+    },
+    {
+      "id": 9,
+      "title": "Công thức biến hóa món miến quen thuộc thành món ăn vặt ngon quên sầu",
+      "image": "https://icdn.24h.com.vn/upload/4-2022/images/2022-10-06/Cong-thuc-bien-hoa-mon-mien-quen-thuoc-thanh-mon-an-vat-ngon-quen-sau-ojingeochae-bokkeum-pan-590x332-1665020958-958-width590height332.jpg",
+      "video": "",
+      "ingredient": "- Miến\n\n- 2 tép tỏi băm\n\n- 2 muỗng canh dầu thực vật\n\n- 1 muỗng canh nước tương\n\n- 2 muỗng canh đường\n\n- 1 thìa hạt vừng",
+      "doing": "",
+      "category": "2",
+      "description": "Miến ngoài cách nấu truyền thống còn có thể biến tấu thành món ăn này để cả nhà cũng nhâm nhi."
+    },
+    {
+      "id": 10,
+      "title": "Học người Nhật cách làm món thịt gà viên, ăn đưa cơm vô cùng",
+      "image": "https://icdn.24h.com.vn/upload/3-2022/images/2022-09-29/2-1664416066-967-width722height566.jpg",
+      "video": "",
+      "ingredient": "- 500g thịt gà băm (có thể thay bằng thịt lợn)\n\n- 1 quả trứng\n\n- 1 cốc vụn bánh mì\n\n- 1 tép tỏi băm\n\n- 1,5 muỗng cà phê rượu sake\n\n- ½ muỗng cà phê muối\n\n- 1 muỗng canh dầu\n\n- Hành lá cắt nhỏ\n\n- Vừng",
+      "doing": "",
+      "category": "1",
+      "description": "Những viên thịt gà ngon ngọt, đầy đặn được tẩm sốt Teriyaki ăn cùng cơm nóng thì ngon tuyệt hảo."
+    }
   ]
 }
