@@ -136,7 +136,7 @@
       "video": "",
       "ingredient": "1 miếng đậu phụ, 1 quả trứng, 4 tép tỏi, 1 nhánh hành lá, 50 gam bột thì là, 50 gam mè trắng, 30 gam ớt bột, 2 thìa xì dầu, 1 thìa dầu hào, nửa thìa đường, nửa thìa muối, bột mỳ.",
       "doing": "",
-      "category": 3,
+      "categoryId": 3,
       "description": "Có nhiều cách chế biến đậu phụ nhưng làm theo kiểu này vừa lạ miệng, vừa rất hợp ăn với cơm nóng."
     },
     {
@@ -146,7 +146,7 @@
       "video": "",
       "ingredient": "Chuối, vụn bánh mì, trứng.",
       "doing": "",
-      "category": "1",
+      "categoryId": 1,
       "description": "Cách làm món ăn này rất đơn giản, chỉ cần chuẩn bị vài quả chuối và thêm 3 quả trứng vào là xong."
     },
     {
@@ -156,7 +156,7 @@
       "video": "",
       "ingredient": "1kg cua đồng, 100gr me chín, 2 muỗng canh tỏi băm, 2 thìa cà phê bột năng, Gia vị: Bột canh, hạt tiêu, đường, muối, bột ngọt",
       "doing": "",
-      "category": "1",
+      "categoryId": 1,
       "description": "Món cua đồng rang me đặc trưng bởi vị chua chua ngọt ngọt từ nước sốt me quyện với vị ngậy, giòn thơm của cua đồng. Món này dùng để ăn nhậu hay ăn với cơm đều ngon."
     },
     {
@@ -166,7 +166,7 @@
       "video": "",
       "ingredient": "Đậu phụ, 2 thìa xì dầu, 1 thìa dầu hào, 1 thìa đường, 2 thìa bột thì là, 1 thìa vừng rang, 1 thìa ớt bột, 2 củ hành tím, Dầu ăn",
       "doing": "",
-      "category": "3",
+      "categoryId": 3,
       "description": "Đậu phụ không chỉ bổ dưỡng mà còn dễ tiêu hóa, đặc biệt phù hợp với người già và trẻ em có hệ tiêu hóa kém."
     },
     {
@@ -176,7 +176,7 @@
       "video": "",
       "ingredient": "- Hành tây thái thành những khoanh tròn\n\n- ½ chén bột mì\n\n- 2 quả trứng lớn\n\n- 1 cốc vụn bánh mì\n\n- 1 thìa ớt bột\n\n- ½ thìa cà phê bột tỏi\n\n- ½ thìa cà phê muối\n\n- Ớt\n\n- 1 củ hành tây vừa\n\n- Sốt BBQ",
       "doing": "",
-      "category": "2",
+      "categoryId": 2,
       "description": "Chỉ mất vài phút chiên với nồi chiên không dầu là bạn đã có món snack hành tây ngon tuyệt hảo."
     },
     {
@@ -186,7 +186,7 @@
       "video": "",
       "ingredient": "- 1kg ức bò\n\n- 500g gân bò\n\n- 3 củ cà rốt (gọt vỏ và cắt thành từng khoanh lớn)\n\n- 2 muỗng cà phê tương đậu lên men\n\n- 1 miếng gừng dài 5 cm (cắt thành từng lát dày)\n\n- 1 củ tỏi (cắt bỏ phần trên để lộ tép)\n\n- 2 muỗng cà phê nước tương nhạt\n\n- 1 muỗng cà phê nước tương đen\n\n- 20 g đường phèn\n\n- 2 muỗng canh dầu thực vật\n\n- Nước 500 ml\n\n- Muối",
       "doing": "",
-      "category": "1",
+      "categoryId": 1,
       "description": "Chỉ với vài bước dễ dàng là món ăn kiểu Hồng Kông này có thể hoàn thành và chinh phục cả người ăn khó tính nhất."
     },
     {
@@ -196,7 +196,7 @@
       "video": "",
       "ingredient": "- Ức bò\n\n- Cà chua\n\n- Dầu ăn\n\n- Gừng\n\n- Tỏi\n\n- Hoa hồi\n\n- Lá nguyệt quế\n\n- Nước sốt cà chua\n\n- Muối\n\n- Tiêu\n\n- Đường\n\n- Hành",
       "doing": "",
-      "category": "1",
+      "categoryId": 1,
       "description": "Đây là món ăn có công thức thực hiện đơn giản nhưng hương vị lại vô cùng thơm ngon khiến ai cũng yêu thích."
     },
     {
@@ -206,7 +206,7 @@
       "video": "",
       "ingredient": "- 2 muỗng canh dầu thực vật\n\n- 2 tép tỏi băm nhuyễn\n\n- ½  củ hành tây thái nhỏ\n\n- ½ ớt chuông thái hạt lựu\n\n- ½ chén đậu Hà Lan đông lạnh\n\n- Cơm\n\n- Dứa tươi xắt miếng\n\n- ½ chén hành lá\n\nNước sốt:\n\n- 1 muỗng canh dầu hào\n\n- Nước mắm\n\n- ½ muỗng cà phê đường",
       "doing": "",
-      "category": "3",
+      "categoryId": 3,
       "description": "Đây là công thức làm cơm chiên dứa chuẩn Thái bạn nhất định phải thử."
     },
     {
@@ -216,7 +216,7 @@
       "video": "",
       "ingredient": "- Miến\n\n- 2 tép tỏi băm\n\n- 2 muỗng canh dầu thực vật\n\n- 1 muỗng canh nước tương\n\n- 2 muỗng canh đường\n\n- 1 thìa hạt vừng",
       "doing": "",
-      "category": "2",
+      "categoryId": 2,
       "description": "Miến ngoài cách nấu truyền thống còn có thể biến tấu thành món ăn này để cả nhà cũng nhâm nhi."
     },
     {
@@ -226,8 +226,22 @@
       "video": "",
       "ingredient": "- 500g thịt gà băm (có thể thay bằng thịt lợn)\n\n- 1 quả trứng\n\n- 1 cốc vụn bánh mì\n\n- 1 tép tỏi băm\n\n- 1,5 muỗng cà phê rượu sake\n\n- ½ muỗng cà phê muối\n\n- 1 muỗng canh dầu\n\n- Hành lá cắt nhỏ\n\n- Vừng",
       "doing": "",
-      "category": "1",
+      "categoryId": 1,
       "description": "Những viên thịt gà ngon ngọt, đầy đặn được tẩm sốt Teriyaki ăn cùng cơm nóng thì ngon tuyệt hảo."
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "title": "Món mặn"
+    },
+    {
+      "id": 2,
+      "title": "Món ăn vặt"
+    },
+    {
+      "id": 3,
+      "title": "Món chay"
     }
   ]
 }
